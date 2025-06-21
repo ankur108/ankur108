@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankur108" alt="ankur108" /></a> </p>
 
-- 🔭 Data Scientists At **PwC**
+- 🔭 Senior Data Engineer At **PwC**
 
-- 💬 Ask me about **Python, SQL & PowerBI**
+- 💬 Ask me about **Python, SQL & PowerBI, PySpark, Azure, DataBricks, Snowflake**
 
 - 📫 How to reach me **ankur108c@gmail.com**
 
