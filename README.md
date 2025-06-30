@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankur Chaudhary</h1>
-<h3 align="center">I'm a Data Science enthusiast with a passion for turning data into actionable insights. I love working on projects that involve data analysis, machine learning, and data visualization. Here you'll find my notebooks, models, and explorations in making sense of data.</h3>
+<h3 align="center">I’m a Data Engineering enthusiast passionate about designing, building, and optimizing scalable data pipelines and architectures. I enjoy working on projects involving data ingestion, transformation, and integration to enable reliable, high-quality data for analytics and machine learning. Here, you’ll find my work on data engineering frameworks, ETL/ELT processes, and scalable solutions that power actionable insights.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankur108&label=Profile%20views&color=0e75b6&style=flat" alt="ankur108" /> </p>
 
